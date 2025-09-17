@@ -1,38 +1,5 @@
 <div align="center">
-  <style>
-    .hero {
-      width: 100%;
-      max-width: 920px;
-      border-radius: 18px;
-      padding: 22px;
-      box-shadow: 0 10px 30px rgba(2,6,23,0.35);
-      background: linear-gradient(135deg, #0f172a 0%, #0b1220 50%, #071028 100%);
-      color: #e6eef8;
-      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial;
-      margin: 18px auto;
-      border: 1px solid rgba(255,255,255,0.04);
-    }
-    .title {
-      display:flex;
-      align-items:center;
-      gap:14px;
-      justify-content:center;
-    }
-    .logo {
-      width:64px;height:64px;border-radius:12px;
-      background: linear-gradient(135deg,#22c1c3,#fdbb2d);
-      display:flex;align-items:center;justify-content:center;
-      font-weight:700;color:#061226;font-size:28px;
-      box-shadow: 0 6px 18px rgba(34,193,195,0.18);
-    }
-    .subtitle { opacity:0.85; margin-top:6px; font-size:14px; }
-    .badges { margin-top:14px; display:flex; gap:10px; justify-content:center; flex-wrap:wrap; }
-    .cta {
-      margin-top:18px;
-      font-size:13px;
-      opacity:0.95;
-    }
-  </style>
+  
 
   <div class="hero">
     <div class="title">
